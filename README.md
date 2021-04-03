@@ -16,6 +16,10 @@
 
 （1）	第一个网址是利用中国地图，描绘抗日战争时期日军侵华路线和八路军敌后战场路线
 
-[抗日战争时期进军路线][]
+[抗日战争时期路线][https://prideleo.github.io/geo_lines.html]
+
+（2）	第二个网址是利用世界地图统计世界部分国家感染新冠死亡的人数
+
+[新冠死亡统计][https://prideleo.github.io/covid-19_deathmortality.html]
 
 
