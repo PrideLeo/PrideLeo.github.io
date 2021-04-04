@@ -22,4 +22,7 @@
 
 [新冠死亡统计][https://prideleo.github.io/covid-19_deathmortality.html]
 
+（3）第三个网址是对家园食堂某两周内一层的销量和人流量进行统计的组合图表，统计的食品为猪肉大葱包子和烧卖
+
+[家园食堂销量统计][https://prideleo.github.io/carteensellingnum.html]
 
