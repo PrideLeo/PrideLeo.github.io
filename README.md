@@ -35,7 +35,15 @@
 
 最后仍需强调的一点是，枝江大学仅仅是一个虚构的大学，页面中涉及的人物虽真实存在，但是其背景介绍均为虚构。如有雷同，算我抄你。
 
-[枝江大学][]
-
 [枝江大学首页][3]
+
 [枝江大学报名网站][4]
+
+[1]:PrideLeo.github.io/threebody_connection.html
+
+[2]:PrideLeo.github.io/ezsearch.html
+
+[3]:PrideLeo.github.io/zhijiang.edu.cn.html
+
+[4]:PrideLeo.github.io/signupforzju.html
+
