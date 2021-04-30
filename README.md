@@ -39,11 +39,11 @@
 
 [枝江大学报名网站][4]
 
-[1]:PrideLeo.github.io/threebody_connection.html
+[1]:https://PrideLeo.github.io/threebody_connection.html
 
-[2]:PrideLeo.github.io/ezsearch.html
+[2]:https://PrideLeo.github.io/ezsearch.html
 
-[3]:PrideLeo.github.io/zhijiang.edu.cn.html
+[3]:https://PrideLeo.github.io/zhijiang.edu.cn.html
 
-[4]:PrideLeo.github.io/signupforzju.html
+[4]:https://PrideLeo.github.io/signupforzju.html
 
